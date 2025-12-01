@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m M. Keyza Alfarizzi — a Data/Database Specialist & Web Developer with hands-on experience in data management, AI foundations, and modern web development.<br>I enjoy building systematic, ethical, and scalable digital solutions that combine analytical thinking with creative problem-solving.
+<h2 align="center">Hi, I’m M. Keyza Alfarizzi — a Data/Database Specialist & Web Developer with hands-on experience in data management, AI foundations, and modern web development.<br>I enjoy building systematic, ethical, and scalable digital solutions that combine analytical thinking with creative problem-solving.</h2>
 
 
 ## 🌐 Socials:
